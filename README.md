@@ -3,6 +3,10 @@
 
 This is my very first mobile application built entirely from scratch. The main goal of this project was to master the fundamentals of Kotlin syntax and understand modern user interface principles using **Jetpack Compose**.
 
+<p align="center">
+<img width="1224" height="2992" alt="Screenshot_20260708-165351_My Application" src="https://github.com/user-attachments/assets/28f7b7b8-6832-4a85-a70e-ae434ba02be9" />
+</p>
+
 ## 🛠️ Tech Stack
 * **Language:** Kotlin
 * **UI Framework:** Jetpack Compose (Google)
